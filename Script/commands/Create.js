@@ -2,7 +2,7 @@ module.exports.config = {
   name: "create",
   version: "1.0.",
   hasPermssion: 0,
-  credits: "Islamick Chat",
+  credits: "‎⤾➝অৃঁপ্রিৃঁয়ৃঁ↬রাৃঁজৃঁ⤹❤️‍🩹🤍🙂⇣",
   description: "( 𝙂𝙚𝙣𝙚𝙧𝙖𝙩 𝘼𝙄 𝙞𝙢𝙖𝙜𝙚𝙨 )",
   commandCategory: "create-images",
   usages: "( 𝖨𝗆𝖺𝗀𝗂𝗇𝖾 𝖨𝗆𝖺𝗀𝖾 )",
